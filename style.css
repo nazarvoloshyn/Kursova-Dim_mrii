@@ -57,7 +57,7 @@
   /* ***** HEADER  ***** */
   .hero {
     background: linear-gradient(to left, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.616)),
-      url("/images/фон.jpg") var(--bg-image-center)
+      url("images/фон.jpg") var(--bg-image-center)
         fixed;
   }
   
@@ -156,13 +156,13 @@
   }
   
   .img-one {
-    background: url("/images/Будівництв.jpg") var(--bg-image-center);
+    background: url("images/Будівництв.jpg") var(--bg-image-center);
   }
   .img-two {
-    background: url("/images/Архітектура.jpg") var(--bg-image-center);
+    background: url("images/Архітектура.jpg") var(--bg-image-center);
   }
   .img-three {
-    background: url("/images/Нерухомість.jpg") var(--bg-image-center);
+    background: url("images/Нерухомість.jpg") var(--bg-image-center);
   }
   
   /* ******* WHY US ******* */
